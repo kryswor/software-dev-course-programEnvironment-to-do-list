@@ -1,1 +1,11 @@
-# To-Do List
+# to-do list
+on branch main
+tracked files:(tasks.txt)
+get add complete git lesson, review html basics, start javascript exercises 
+to the list of to-do
+git commit -m "tasks.txt"
+kryswor git log 
+commit 1234567890abcdefghijklmnopqrstuvwxyz1234
+author: kryswor kryssyworkman@gmail.com
+date: Fri May 15 10:28
+my first commit
